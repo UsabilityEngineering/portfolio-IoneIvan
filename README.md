@@ -10,4 +10,4 @@ Team:Braden Currah, Ivan Miziuk
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Soda Machine](journal/)
