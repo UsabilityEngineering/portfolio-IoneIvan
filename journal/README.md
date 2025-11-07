@@ -8,9 +8,13 @@ The ice machine is **learnable** as it is symmetrical, resembles an interaction 
 
 The machine could be improved by utilizing the **convention** it has made, such as using the leverage for all outputs, no matter if it's soda or an ice cube.
 
+
+video:
 (P.S: turn on the sound to hear when the ice poors in)
 
 
 https://github.com/user-attachments/assets/0e817e99-9e7c-4b19-b685-5c26f877247b
 
 
+Sudgestion for this soda machien that has implemented the leavarage for the icing filling option:
+![sudgestion](https://github.com/user-attachments/assets/8e76cec1-d74f-4132-a662-ca9401a3ea96)
