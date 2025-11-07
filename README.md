@@ -4,7 +4,9 @@ I'm Ivan Miziuk, Student in CHico State University majoring in Computer Science.
 
 ## UX Team Project
 
-Coming soon.
+Project: new-tab-pluss
+
+Team:Braden Currah, Ivan Miziuk
 
 ## UX Journal
 
